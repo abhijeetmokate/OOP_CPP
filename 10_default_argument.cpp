@@ -2,7 +2,7 @@
 using namespace std;
 
 
-void add(int,int,int = 0);
+void add(int,int,int = 0); // this is the declaration of the function
 
 
 int main()
