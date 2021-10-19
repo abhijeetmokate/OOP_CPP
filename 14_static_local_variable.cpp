@@ -10,7 +10,7 @@ Static Member Variable:
 4.static member variable does not belong to any object, but to the whole class.
 5.there will be only one copy of static member variable for the whole class.
 6.any object can use the same copy of class variable.
-7.they can also be found with class name.
+7.they can also be found with class name. i.e. complex::real
 */
 
 
